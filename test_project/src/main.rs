@@ -1,5 +1,6 @@
 fn main() {
     println!("This is a test project to get used to working with cargo.");
+    println!("Oh and also getting reacquainted with GitHub since I use TFVC for my 9-5...");
     println!("To terminate press [ANY] key...");
 
     let mut input = String::new();
